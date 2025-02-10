@@ -1,0 +1,7 @@
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\mayur\Desktop\Midterm\StudentRegistration\obj\Debug\StudentRegistration.pdb
