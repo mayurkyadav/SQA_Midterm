@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{BB90B8D8-61FF-4938-8418-6715B0DA6F96}|StudentRegistration.csproj|solutionrelative:registrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB90B8D8-61FF-4938-8418-6715B0DA6F96}|StudentRegistration.csproj|c:\\users\\mayur\\desktop\\midterm\\studentregistration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB90B8D8-61FF-4938-8418-6715B0DA6F96}|StudentRegistration.csproj|C:\\Users\\mayur\\Desktop\\Midterm\\StudentRegistration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB90B8D8-61FF-4938-8418-6715B0DA6F96}|StudentRegistration.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "RegistrationTests.cs",
               "ToolTip": "C:\\Users\\mayur\\Desktop\\Midterm\\StudentRegistration\\RegistrationTests.cs",
               "RelativeToolTip": "RegistrationTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T18:27:43.802Z",
               "EditorCaption": ""
@@ -64,7 +64,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T18:19:12.186Z"
+              "WhenOpened": "2025-02-10T18:19:12.186Z",
+              "EditorCaption": ""
             }
           ]
         }
